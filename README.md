@@ -4,7 +4,7 @@
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 ![MIT](https://img.shields.io/badge/License-MIT-green)
-
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ---
 
 ## 📌 Overview
@@ -150,6 +150,17 @@ streamlit run app.py
 - Translation memory
 - User authentication
 - Kubernetes deployment
+
+---
+
+## Key Learnings
+
+- Neural Machine Translation with MarianMT
+- Transformer-based NLP workflows
+- Language detection
+- Speech synthesis
+- Dependency management
+- Streamlit application development
 
 ---
 
