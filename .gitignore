@@ -1,0 +1,19 @@
+.env
+__pycache__/
+*.py[cod]
+temp/
+*.mp3
+*.wav
+# macOS
+.DS_Store
+
+# Environment
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Media
+*.mov
