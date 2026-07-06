@@ -17,6 +17,21 @@ The project demonstrates multilingual NLP workflows while minimizing reliance on
 
 ---
 
+## Demo
+
+### Home Page
+
+![Home](screenshots/home-page.png)
+
+### Translation Output
+
+![Translation](screenshots/translation-output.png)
+
+### Audio Generation
+
+![Audio](screenshots/audio-download.png)
+
+
 ## ✨ Features
 
 - Multi-language text translation
