@@ -27,10 +27,6 @@ The project demonstrates multilingual NLP workflows while minimizing reliance on
 
 ![Translation](screenshots/translation-output.png)
 
-### Audio Generation
-
-![Audio](screenshots/audio-download.png)
-
 
 ## ✨ Features
 
